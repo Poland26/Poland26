@@ -14,3 +14,5 @@
 [![hh.ru](https://img.shields.io/badge/-HeadHunter-9cf?style=for-the-badge&logo=HeadHunter)](https://spb.hh.ru/applicant/resumes/view?resume=af230c30ff09ca1ca90039ed1f7a6c436b6956)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9cf?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/poland26/)
 [![Telegram](https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logo=Telegram)](https://t.me/polchao)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poland26&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
